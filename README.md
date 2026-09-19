@@ -1,1 +1,1 @@
-Convenient tools_1.2.1是一款自带Linux环境的AI工具可以帮助用户执行构建生成并通过shizuku权限进行安装
+evenient tools_1.2.1是一款自带Linux环境的AI工具可以帮助用户执行构建生成APK并通过静谷权限进行安装
